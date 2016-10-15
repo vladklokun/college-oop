@@ -2,7 +2,7 @@
 
 class DateClass
 {
-	int m_month;
+	int m_month; /* In C++ class members have private access specifiers by default */
 	int m_day;
 	int m_year;
 public:
